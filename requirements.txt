@@ -1,0 +1,11 @@
+streamlit
+langgraph
+langchain
+python-docx
+reportlab
+PyMuPDF
+transformers
+torch
+ollama-client
+openai
+python-dotenv
